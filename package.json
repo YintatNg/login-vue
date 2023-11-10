@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
-    "axios": "0.19.2",
+    "axios": "1.6.0",
     "element-ui": "2.13.0",
     "js-cookie": "latest",
     "store": "2.0.12",
